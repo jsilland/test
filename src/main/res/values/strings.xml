@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app">Finally getting there?</string>
-    <string name="support_email">support@apple.com</string>
+    <string name="support_email">This time might be it</string>
     <string name="meu_setings">Setting</string>
     <string name="menu_notifictions">Notifications</string>
 </resources>
