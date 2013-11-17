@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Strava</string>
+    <string name="support_email">support@strava.com</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_notifications">Notifications</string>
+</resources>
